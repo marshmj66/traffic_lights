@@ -1,0 +1,2 @@
+I've made this as a starting quick project to get more used to arduino programming and designing a familiar system that 
+I see almost everyday.
